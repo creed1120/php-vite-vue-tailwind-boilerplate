@@ -18,6 +18,11 @@ Welcome to your Vite-powered project!
 - `src/` - Source files
 - `public/` - Static assets
 
+## Addons
+
+Component Library for Tailwind CSS
+- [FlyonUI v2.2.0](https://flyonui.com/docs/getting-started/quick-start/?theme=light)
+
 ## Learn More
 
 - [Vite Documentation](https://vitejs.dev/)
