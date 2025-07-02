@@ -1,4 +1,4 @@
-# Vite Project
+# PHP Vite Vue3 Tailwind Boilerplate
 
 Welcome to your Vite-powered project!
 
